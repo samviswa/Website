@@ -1,0 +1,10 @@
+@media only screen and (max-width:640px)
+{
+    .avatar{
+        position: absolute;
+        left: 15px;
+        height: 100px;
+        width: 100px;
+        position: sticky;
+    }
+}

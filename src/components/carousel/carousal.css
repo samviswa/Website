@@ -1,0 +1,12 @@
+@media only screen and (max-width:640px)
+{
+    .slide{
+        position: relative;
+        top: 310px;
+        width: 100%;
+    }
+    .smallCard{
+        width: 250px;
+        height: 80px;
+    }
+}

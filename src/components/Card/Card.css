@@ -1,0 +1,26 @@
+.russo-one-regular {
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .alfa{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @media only screen and (max-width:640px)
+  {
+    .cardCon{
+      position: absolute;
+      top: 420px;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      flex-direction: column;
+    }
+   
+  }
+  

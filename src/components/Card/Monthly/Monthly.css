@@ -1,0 +1,7 @@
+@media screen and (max-width:640px)
+{
+  .carding{
+    width: 100%;
+    height: 400px;
+  }
+}
